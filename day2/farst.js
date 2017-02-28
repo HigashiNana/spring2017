@@ -1,1 +1,1 @@
-console.log("テスト");
+console.log("node始めました");
